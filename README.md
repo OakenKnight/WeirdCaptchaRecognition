@@ -1,7 +1,7 @@
 # Captcha detection (OCR)
 
 ### Description
-Reading text from easy and relatively hard surfaces. 
+Reading text from easy and relatively hard surfaces is simple project made for Soft computing course.
 Recognition and reading from images using computer vision techniques 
 is performed through the OpenCV library and machine learning models through Keras and Scikit-Learn
 libraries, as well as the Python programming language.
